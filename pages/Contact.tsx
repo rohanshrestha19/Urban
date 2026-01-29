@@ -40,8 +40,8 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-sm font-black uppercase tracking-widest text-zinc-900 mb-1">Visit Us</h4>
-                  <p className="text-zinc-500">123 Streetwear Ave, Suite 404</p>
-                  <p className="text-zinc-500">New York, NY 10001</p>
+                  <p className="text-zinc-500">Kalanki</p>
+                  <p className="text-zinc-500">Kathmandu, Nepal</p>
                 </div>
               </div>
 
@@ -51,8 +51,8 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-sm font-black uppercase tracking-widest text-zinc-900 mb-1">Call Us</h4>
-                  <p className="text-zinc-500">+1 (888) STEP-NOW</p>
-                  <p className="text-zinc-500">Mon - Fri: 9am - 6pm EST</p>
+                  <p className="text-zinc-500">+977 9876543210</p>
+                  <p className="text-zinc-500">Sun - Fri: 9am - 6pm </p>
                 </div>
               </div>
             </div>

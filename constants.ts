@@ -174,21 +174,7 @@ export const PRODUCTS: Product[] = [
     rating: 4.8,
     isNew: true
   },
-  {
-    id: '12',
-    name: 'EcoWalk Knit',
-    price: 115,
-    category: Category.Casual,
-    gender: 'Unisex',
-    description: 'Style with a conscience. Crafted from recycled ocean plastic, the EcoWalk Knit offers premium comfort without the footprint.',
-    image: 'https://images.unsplash.com/photo-1570158268183-d296b2892211?auto=format&fit=crop&w=800&q=80',
-    images: [
-      'https://images.unsplash.com/photo-1570158268183-d296b2892211?auto=format&fit=crop&w=800&q=80'
-    ],
-    sizes: [6, 7, 8, 9, 10, 11],
-    rating: 4.6,
-    isNew: true
-  },
+
   {
     id: '13',
     name: 'Glitch Streetwear',

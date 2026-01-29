@@ -59,22 +59,22 @@ const Home: React.FC = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Alex Rivera",
+      name: "Barun",
       avatar: "https://i.pravatar.cc/150?u=alex",
       text: "Literally the most comfortable sneakers I've ever owned. I wear my Urban Glides for 12 hours a day and my feet feel amazing. Truly a game changer.",
       rating: 5
     },
     {
       id: 2,
-      name: "Sarah Chen",
-      avatar: "https://i.pravatar.cc/150?u=sarah",
+      name: "Aavash Yogi",
+      avatar: "https://i.pravatar.cc/150?u=alex",
       text: "Style meets performance. I bought the Summit Pros for my morning runs, but I end up wearing them to the cafe too. They look so premium!",
       rating: 5
     },
     {
       id: 3,
-      name: "Marcus Thorne",
-      avatar: "https://i.pravatar.cc/150?u=marcus",
+      name: "Prasiddha Bhat",
+      avatar: "https://i.pravatar.cc/150?u=alex",
       text: "UrbanStep is my new go-to. The delivery was incredibly fast and the packaging felt like a luxury unboxing experience. 10/10 would recommend.",
       rating: 4
     }
